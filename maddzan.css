@@ -10,11 +10,11 @@ html, body {
   min-height: 18em;
 }
 
-.frontend-side {
+.art-side {
   background-image: url("maddzan-art.jpg");
 }
 
-.uiux-side {
+.retouch-side {
   background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/74452/website-post-its.png");
 }
 
@@ -86,10 +86,10 @@ html, body {
   border-color: white;
 	cursor: pointer;
 }
-.uiux-side.split-pane button:hover, .split-pane a.button:hover {
+.retouch-side.split-pane button:hover, .split-pane a.button:hover {
   color: violet;
 }
-.frontend-side.split-pane button:hover, .split-pane a.button:hover {
+.art-side.split-pane button:hover, .split-pane a.button:hover {
   color: blue;
 }
 
